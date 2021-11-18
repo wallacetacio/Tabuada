@@ -17,8 +17,6 @@ namespace Tabuada
 
             fator2 = 0;
 
-            
-
             while (fator2 <= 10)
             {
                 produto = fator1 * fator2;
